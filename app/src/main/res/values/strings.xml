@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Siobhan Perez</string>
+    <string name="telefono">6524578</string>
+    <string name="email">siobhan@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">emsil</string>
+    <string name="plikes">0 Likes</string>
+
+</resources>
